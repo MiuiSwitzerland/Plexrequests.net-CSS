@@ -11,4 +11,4 @@ Please download both files bootstrap.css and custom.min.css and replace with the
 
 These are some Screenshots:
 
-![ScreenShot](https://github.com/MiuiSwitzerland/Plexrequests.net-CSS/blob/master/main.jpg)
+![ScreenShot](https://github.com/MiuiSwitzerland/Plexrequests.net-CSS/blob/master/mainpage.png)
