@@ -1,6 +1,6 @@
 {
   "name": "Plexrequests.net-css",
   "tagline": "CSS Modification for the Plexrequests.net",
-  "body": "# Plexrequests.net-CSS\r\nCSS Modification for the Plexrequests.net\r\n\r\nSince I would like to Plexrequets to look like my Plex Mediacenter, I decided to teak the Bootstrap css to look like it. Feel free to download it and change it to suit your needs.\r\n\r\n**Install:**\r\n\r\nPlease download both files bootstrap.css and custom.min.css and replace with the ones located at:\r\n\r\n`/opt/plexrequests/Release/Content`\r\n\r\nThese are some Screenshots:\r\n\r\n![Mainpage](https://github.com/MiuiSwitzerland/Plexrequests.net-CSS/blob/master/main.jpg)\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+  "body": "# Plexrequests.net-CSS\r\nCSS Modification for the Plexrequests.net\r\n\r\nSince I would like to Plexrequets to look like my Plex Mediacenter, I decided to teak the Bootstrap css to look like it. Feel free to download it and change it to suit your needs.\r\n\r\n**Install:**\r\n\r\nPlease download both files bootstrap.css and custom.min.css and replace with the ones located at:\r\n\r\n`/opt/plexrequests/Release/Content`\r\n\r\nThese are some Screenshots:\r\n\r\n![ScreenShot](https://github.com/MiuiSwitzerland/Plexrequests.net-CSS/blob/master/main.jpg)\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
