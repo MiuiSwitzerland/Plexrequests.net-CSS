@@ -5,11 +5,11 @@ Since I would like to Plexrequets to look like my Plex Mediacenter, I decided to
 
 **Install:**
 
-Please download both files bootstrap.css and custom.min.css and replace with the ones located at:
+Please download both files **bootstrap.css** and **custom.min.css** and replace with the ones located at:
 
 `/opt/plexrequests/Release/Content`
 
-These are some Screenshots:
+# Screenshots:
 
 ![ScreenShot](https://github.com/MiuiSwitzerland/Plexrequests.net-CSS/blob/master/mainpage.png)
 
