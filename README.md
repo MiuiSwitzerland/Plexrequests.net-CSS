@@ -23,3 +23,5 @@ Please download both files **bootstrap.css** and **custom.min.css** and replace 
 
 ![ScreenShot](https://github.com/MiuiSwitzerland/Plexrequests.net-CSS/blob/master/Screenshots/Admin-Page.jpg)
 
+![ScreenShot](https://github.com/MiuiSwitzerland/Plexrequests.net-CSS/blob/master/Screenshots/Password.jpg)
+
