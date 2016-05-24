@@ -11,5 +11,5 @@ Please download both files **bootstrap.css** and **custom.min.css** and replace 
 
 # Screenshots:
 
-![ScreenShot](https://github.com/MiuiSwitzerland/Plexrequests.net-CSS/blob/master/Screenshots/home.jpg)
+![ScreenShot](https://github.com/MiuiSwitzerland/Plexrequests.net-CSS/blob/master/Screenshots/Home.jpg)
 
