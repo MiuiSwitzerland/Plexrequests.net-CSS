@@ -21,7 +21,5 @@ Please download both files **bootstrap.css** and **custom.min.css** and replace 
 
 ![ScreenShot](https://github.com/MiuiSwitzerland/Plexrequests.net-CSS/blob/master/Screenshots/Movies.jpg)
 
-![ScreenShot](https://github.com/MiuiSwitzerland/Plexrequests.net-CSS/blob/master/Screenshots/Movie-Requests.jpg)
-
 ![ScreenShot](https://github.com/MiuiSwitzerland/Plexrequests.net-CSS/blob/master/Screenshots/Admin-Page.jpg)
 
